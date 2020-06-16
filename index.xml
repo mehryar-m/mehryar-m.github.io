@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My Site</title>
+    <link>https://mehryar-m.github.io/</link>
+    <description>Recent content on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jun 2020 09:19:29 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehryar-m.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How To Use Codex</title>
-      <link>http://example.org/blog/how-to-use-codex/</link>
+      <link>https://mehryar-m.github.io/blog/how-to-use-codex/</link>
       <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
       
-      <guid>http://example.org/blog/how-to-use-codex/</guid>
+      <guid>https://mehryar-m.github.io/blog/how-to-use-codex/</guid>
       <description>Codex is a minimal blog theme for Hugo.
 Getting Started 1. Start a new hugo site
 hugo new site my-new-site cd my-new-site 2. Initialize project with git
